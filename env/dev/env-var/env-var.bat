@@ -1,5 +1,5 @@
 @echo on
-set nodeName=ACENODE01
-set serverName=IS01
-set applicationName=serverInfo
-set barName=serverInfo.bar
+set NODENAME=ACENODE01
+set SERVERNAME=IS01
+set APPNAME=serverInfo
+set BARNAME=serverInfo.bar
