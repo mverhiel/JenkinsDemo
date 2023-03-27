@@ -1,3 +1,4 @@
+@echo on
 set nodeName=ACENODE01
 set serverName=IS01
 set applicationName=serverInfo
